@@ -5,9 +5,9 @@ layout: default
 
 ## Postgraduate Education 
 
-During the first year of my postgraduate course, I will be undertaking several modules at my home institution, [the University of Liverpool](https://www.liverpool.ac.uk/),
+During the first year of my postgraduate course, I will be undertaking several modules at my home institution, [University of Liverpool](https://www.liverpool.ac.uk/),
 and I shall also take one module at each of my partner institutions: [University of Leeds](http://www.leeds.ac.uk/), [University of Manchester](https://www.manchester.ac.uk),
-and [University of Sheffield](https://www.sheffield.ac.uk/). I shall also undertake a month-long internship at my partner company - [the Liverpool City Region](https://www.liverpoolcityregion-ca.gov.uk/).
+and [University of Sheffield](https://www.sheffield.ac.uk/). I shall also undertake a month-long internship at my partner company - [Liverpool City Region](https://www.liverpoolcityregion-ca.gov.uk/).
 
 My first year modules include:
 
