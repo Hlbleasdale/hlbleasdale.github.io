@@ -1,3 +1,11 @@
+
+url: "http://hlbleasdale.github.io"
+baseurl: ""
+title: Hope Bleasdale
+author: Hope Bleasdale
+email: sghbleas@liverpool.ac.uk
+description: My first website
+
 theme: jekyll-theme-cayman
 
 header_pages:
