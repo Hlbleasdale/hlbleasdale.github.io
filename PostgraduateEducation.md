@@ -1,5 +1,6 @@
 ---
 title: Postgraduate Education
+layout: default
 permalink: /Postgraduate Education
 ---
 
