@@ -15,6 +15,6 @@ I am Hope Bleasdale, a student from the [Geographic Data Science Lab] (https://w
 
 
 # Contact information
-Twitter: @bleasdalehope
-Email: sghbleas@liverpool.ac.uk
-Address: Geographic Data Science Lab, Roxby Building, Chatham St, University of Liverpool, L69 7ZT
+ * Twitter: @bleasdalehope
+ * Email: sghbleas@liverpool.ac.uk
+ * Address: Geographic Data Science Lab, Roxby Building, Chatham St, University of Liverpool, L69 7ZT
