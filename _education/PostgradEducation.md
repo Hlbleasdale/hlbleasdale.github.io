@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Postgraduate Education
+permalink: /Postgraduate Education
 ---
 
 ## Postgraduate Education 
