@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+header_pages:
+-index.md
+-PostgraduateEducation.md
+
+collections: 
+    Postgraduate Education:
+        output: true
+        permalink: "/PostgraduateEducation.md/:path"
