@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 
 header_pages:
--index.md
--PostgraduateEducation.md
+- index.md
+- PostgraduateEducation.md
 
 collections: 
     Postgraduate Education:
