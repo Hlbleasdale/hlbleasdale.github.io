@@ -1,6 +1,6 @@
 ---
 title: HLBleasdale
-layout: default
+layout: home
 ---
 
 # Hello and welcome to my first website.
