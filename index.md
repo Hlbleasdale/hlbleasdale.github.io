@@ -21,7 +21,7 @@ My first year modules include:
 
 * Social Survey Analysis 
 * Qualitative Research Methods 
-* Analysis of Human Dynamics '
+* Analysis of Human Dynamics 
 * Spatial Analysis 
 * [Programming for Social Sciences](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/) - *hosted at [University of Leeds](http://www.leeds.ac.uk/)*
 * Understanding data and their environment - *hosted at [University of Manchester](https://www.manchester.ac.uk)*
