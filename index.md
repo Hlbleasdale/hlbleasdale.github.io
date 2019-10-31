@@ -29,15 +29,13 @@ My first year modules include:
 
 ## Programming for Social Sciences - Agent Based Modelling 
 
-As part of the first assignment for the 2019 Programming for Social Sciences module at Leeds, I had to create an Agent Based Model of sheep in an environment. To view my python code for this, click [here](https://github.com/Hlbleasdale/Leeds-Geog-5995). 
+As part of the first assignment for the 2019 [Programming for Social Sciences](https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/) module at Leeds, I had to create an Agent Based Model of sheep in an environment.
 
 <p align="center">
   <img width="1100" height="500" src="Figure_ABM.png">
 </p>
 
-An Agent Based Model simulates the actions/interactions of autonomous agents until a number of iterations have run, or a stopping condition has been reached. 
-
-My Agent Based Model simulates the movement and actions of sheep in an environment. The sheep move around the environment, eat the environment and share their food stores with nearby neighbours. 
+An Agent Based Model simulates the actions/interactions of autonomous agents until a number of iterations have run, or a stopping condition has been reached. My Agent Based Model simulates the movement and actions of sheep in an environment. The sheep move around the environment, eat the environment and share their food stores with nearby neighbours. 
 
 The following variables may be altered in this model:
 * num_of_iterations - the number of times the sheep may move
@@ -48,6 +46,7 @@ The model displays a number next to each agent which represents it's food store.
 
 The model continues to run until all of the sheep have eaten enough and are full - this is the stopping condition. 
 
+To view my python code repository for this, click [here](https://github.com/Hlbleasdale/Leeds-Geog-5995). 
 
 ### Contact information
 
