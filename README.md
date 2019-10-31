@@ -1,3 +1,3 @@
 # hlbleasdale.github.io
-Personal Website
-I am Hope Bleasdale, a student within the Geographic Data Science Lab (https://www.liverpool.ac.uk/geographic-data-science/) at the University of Liverpool, UK. I am on a postgraduate research programme entitled ‘Data Analytics and Society’ working with the Liverpool City Region.
+
+This personal website has been created primarily in conjunction with Assignment 1 of the Leeds Programming for Social Sciences Module. It accompanies a python code repository of an Agent Based Model which can be found [here](https://github.com/Hlbleasdale/Leeds-Geog-5995).
