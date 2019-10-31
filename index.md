@@ -32,7 +32,7 @@ My first year modules include:
 As part of the first assignment for the 2019 Programming for Social Sciences module at Leeds, I had to create an Agent Based Model of sheep in an environment. To view my python code for this, click [here](https://github.com/Hlbleasdale/Leeds-Geog-5995). 
 
 <p align="center">
-  <img width="1100" height="600" src="Figure_ABM.png">
+  <img width="1100" height="500" src="Figure_ABM.png">
 </p>
 
 
