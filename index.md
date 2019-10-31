@@ -35,6 +35,19 @@ As part of the first assignment for the 2019 Programming for Social Sciences mod
   <img width="1100" height="500" src="Figure_ABM.png">
 </p>
 
+An Agent Based Model simulates the actions/interactions of autonomous agents until a number of iterations have run, or a stopping condition has been reached. 
+
+My Agent Based Model simulates the movement and actions of sheep in an environment. The sheep move around the environment, eat the environment and share their food stores with nearby neighbours. 
+
+The following variables may be altered in this model:
+* num_of_iterations - the number of times the sheep may move
+* num_of_agents - the number of sheep in the environment 
+* neighbourhood - the distance agents may be close to one another before they start sharing food stores
+
+The model displays a number next to each agent which represents it's food store.
+
+The model continues to run until all of the sheep have eaten enough and are full - this is the stopping condition. 
+
 
 ### Contact information
 
